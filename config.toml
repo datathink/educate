@@ -1,0 +1,25 @@
+baseURL = "https://datathink.github.io/ds"
+themesDir = "themes"
+languageCode = "en-us"
+title = "Data Science Programming & Visualization"
+theme = "hugo-winston-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+paginate = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = ""
+  twitter_handle = ""
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = true
+  showPostsOnHomepage = false
+  addFrame = true
+  addDot = true
+
