@@ -99,7 +99,7 @@ A learning environment has;
 
 ------
 
-[^1]: See verses from across the [LDS standard works](https://www.lds.org/scriptures/gs/teach-teacher) and[] many traditional Christian websites](https://lynndove.com/2014/03/12/25-encouraging-scripture-verses-for-teachers/) 
+[^1]: See verses from across the [LDS standard works](https://www.lds.org/scriptures/gs/teach-teacher) and [many traditional Christian websites](https://lynndove.com/2014/03/12/25-encouraging-scripture-verses-for-teachers/) 
 [^2]: https://www.merriam-webster.com/dictionary/manifesto 
 [^3]: http://www.definitions.net/definition/philosophy 
 [^4]: Based on 1000 hours $\times$ 16 years divided by 8760 hours in a year. 
