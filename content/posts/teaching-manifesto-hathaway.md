@@ -1,7 +1,7 @@
 ---
-title: Learning manifesto: aka teaching philosophy
+title: Learning manifesto - aka teaching philosophy
 date: 2021-11-01
-description: 'This is J. Hathaway's 'Teaching Philosophy' purposely titled a 'Learning Manifesto' changing each word with purpose. He provides his learning manifesto in this post.'
+description: "This is J. Hathaway's 'Teaching Philosophy' purposely titled a 'Learning Manifesto' changing each word with purpose. He provides his learning manifesto in this post."
 ---
 
 ## Introduction
