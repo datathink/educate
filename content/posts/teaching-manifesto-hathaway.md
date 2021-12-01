@@ -97,7 +97,6 @@ A learning environment has;
 - assessment opportunities where the learners understand how to measure their capabilities in the context of their peers beyond assigned points on work, and
 - grading systems that prompt learning and not “getting grades.”
 
-------
 
 [^1]: See verses from across the [LDS standard works](https://www.lds.org/scriptures/gs/teach-teacher) and [many traditional Christian websites](https://lynndove.com/2014/03/12/25-encouraging-scripture-verses-for-teachers/) 
 [^2]: https://www.merriam-webster.com/dictionary/manifesto 
