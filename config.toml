@@ -1,4 +1,4 @@
-baseURL = "http://educate.datathink.io/"
+baseURL = "http://educate.datathink.io"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Data Science Programming & Visualization"
