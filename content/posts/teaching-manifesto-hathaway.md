@@ -24,11 +24,8 @@ A **Manifesto** is a public declaration of principles, policies, or intentions.[
 Paul Lockhart on page 16 (62 and 63 in the book) provides the hypothetical conversation between his two characters in [Mathematician’s Lament](https://www.maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf) about teaching methods - bold emphasis added.
 
 > SIMPLICIO: I don’t think that’s very fair. Surely teaching methods have improved since then.    
->
-> SALVIATI: You mean *training* methods. **Teaching is a messy human relationship; it does not require a method. Or rather I should say, if you need a method you’re probably not a very good teacher.** If you don’t have enough of a feeling for your subject to be able to talk about it in your own voice, in a natural and spontaneous way, how well could you understand it? ….   
->
+> SALVIATI: You mean *training* methods. **Teaching is a messy human relationship; it does not require a method. Or rather I should say, if you need a method you’re probably not a very good teacher.** If you don’t have enough of a feeling for your subject to be able to talk about it in your own voice, in a natural and spontaneous way, how well could you understand it? …      
 > SIMPLICIO: But aren’t you asking an awful lot from our math teachers? You expect them to provide individual attention to dozens of students, guiding them on their own paths toward discovery and enlightenment …?    
->
 > SALVIATI: Do you expect your art teacher to be able to give you individualized, knowledgeable advice about your paintings? … But seriosly, I don’t expect anything of the kind, I only wish it were so.    
 
 ### Being a Learner
