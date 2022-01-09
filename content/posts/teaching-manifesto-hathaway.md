@@ -93,7 +93,7 @@ A learning environment has;
 
 1. vulnerable teachers that are willing to learn with and from their students,
 2. assessment opportunities where the learners understand how to measure their capabilities in the context of their peers beyond assigned points on work, and
-3. grading systems that prompt learning and not “getting grades.”
+3. grading systems that prompt learning and not _“getting grades.”_
 
 
 [^1]: See verses from across the [LDS standard works](https://www.lds.org/scriptures/gs/teach-teacher) and [many traditional Christian websites](https://lynndove.com/2014/03/12/25-encouraging-scripture-verses-for-teachers/) 

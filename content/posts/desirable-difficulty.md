@@ -1,7 +1,7 @@
 ---
 title: Learning should 'burn' a little. Yes confusion is a good thing.
 author: J. Hathaway
-date: 2022-01-10
+date: 2022-01-09
 description: "As educators we often feel the pull to make learning as 'painless' as possible. We want to 'fix' our lessons that created too many struggles for the students. Sometimes, we need to resist that urge."
 ---
 
