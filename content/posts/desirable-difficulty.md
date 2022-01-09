@@ -15,5 +15,8 @@ I recently read a quote from Brene Brown's new book titled ['Atlas of the Heart'
 
 > In an article in Fast Company, Mary Slaughter and David Rock with the NeuroLeadership Institute write, "To be effective, learning needs to be effortful. That's not to say that anything that makes learning easier is counterproductive-or that all unpleasant learning is effective. The key here is __desirable difficulty__. The same way you feel a muscle 'burn' when it's being strengthened, the brain needs to feel some discomfort when its learning. __Your mind might hurt for a while-but that's a good thing. Comfortable learning environments rarely lead to deep learning.__
 
+> So, we have "the zone of optimal confusion" and "desirable difficulty", but what happens when things get too confusing? Based on D'Mello's research, too much confusion can lead to frustration, giving up, disengagement, or even boredom. __Learning strategies most often used to help resolve confusion were seeking help, finding the most important information, monitoring progress, and planning a strategy.__
+
+The last sentence of the quote is crucial.  We need to learn the strategies that get us out of confusion.  If our schooling experience doesn't push the boundary of 'too confusing,' then our students may never fully refine their ability to seek help, filter information, or plan a strategy.
 
 [^1]: For example, in our big data course they are provided a [list of reading references](https://github.com/BYUI451/course_guide/blob/main/resources.md) and given the opportunity to use them or find their own resource to learn Spark and PySpark.
