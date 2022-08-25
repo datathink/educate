@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 languageCode = "en-us"
-title = "Data Science Programming & Visualization"
+title = "DataThink education thoughts"
 theme = "hugo-winston-theme"
 
 pygmentsCodeFences = true
